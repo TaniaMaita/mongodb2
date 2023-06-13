@@ -1,2 +1,2 @@
-use("sample_training")
-db.zips.find({city:"BAILEYTON"})
+use("espoch_store")
+db.products.find()
